@@ -9,3 +9,7 @@ their code there. Is it a Platform Engineer? Is it a DevOps Engineer? SRE? Somet
 It makes it hard for new engineers in this space to know how to get to the coveted Senior Role, hard
 for a Senior to guide new engineers, and a silly amount of hard for anyone involved in recruitment
 to get it done !
+
+## So what is a Change Adaption Engineer
+
+
