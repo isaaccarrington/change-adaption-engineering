@@ -10,6 +10,8 @@ It makes it hard for new engineers in this space to know how to get to the covet
 for a Senior to guide new engineers, and a silly amount of hard for anyone involved in recruitment
 to get it done !
 
-## So what is a Change Adaption Engineer
+## So what is Change Adaption Engineering
 
+It is provisioning virtualised infrastructure, like a VM or anything in the cloud. It is being the steward of the infrastructure, feeding and watering it. It is taking that infrastructure, integrating it with other things and turning it into a system of value, like an API. It's adapting the system to change, like giving it more CPU at Christmas or fixing the expired certificate. It's helping developers get their code to production.
 
+In this brave new world we embrace the principles of DevOps, SRE, Agile etc etc. We are the courier of change and the engineers of resilience.
